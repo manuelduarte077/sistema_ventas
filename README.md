@@ -1,1 +1,1 @@
-# sistema-control-de-inventario
+# Sistema Control de Inventario
